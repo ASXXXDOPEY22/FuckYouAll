@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FuckYouAll", "FuckYouAll\FuckYouAll.vbproj", "{C1A16276-A6AB-4CE0-AD1C-3D7F54832B3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1A16276-A6AB-4CE0-AD1C-3D7F54832B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A16276-A6AB-4CE0-AD1C-3D7F54832B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A16276-A6AB-4CE0-AD1C-3D7F54832B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A16276-A6AB-4CE0-AD1C-3D7F54832B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D765EF67-DE32-41D1-8565-EBBF531D5F72}
+	EndGlobalSection
+EndGlobal
